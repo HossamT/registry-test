@@ -1,0 +1,19 @@
+{
+  "name": "registry-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HossamT/registry-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HossamT/registry-test/issues"
+  },
+  "homepage": "https://github.com/HossamT/registry-test#readme"
+}
